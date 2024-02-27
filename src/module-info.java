@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Turism_Server {
-}
